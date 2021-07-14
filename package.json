@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error100: no test hello specified\" ",
+    "test": "echo \"hello word\" ",
     "prepare": "husky install"
   },
   "keywords": [],
